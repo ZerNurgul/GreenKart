@@ -68,5 +68,5 @@ Then user should see the price of the cart increased
       |          |
       |          |
       |          |
-      |          |
+
 
